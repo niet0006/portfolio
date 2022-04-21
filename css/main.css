@@ -317,3 +317,54 @@ flex-direction: column;
     margin-bottom: 25px;
     text-align: center;
 }
+    
+
+.frog-info p{
+    font-size: 14px;
+    line-height: 25px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+/* ----------------End of Froggy work  --------------------- */
+
+.sushi-container h1{
+    font-family: georgia;
+    font-size: 40px;
+    color: #2D3192 
+}
+.sushi-container h2{
+    color: #2D3192;
+    font-size:30px ;
+    line-height: 40px;
+    margin-bottom: 20px;
+}
+
+.sushi-container p{
+    color: #2D3192;
+    font-size: 14px;
+    line-height: 25px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.sushi-container h3{
+    font-family: georgia;
+    font-size: 30px;
+    color: #2D3192;
+    margin-bottom: 20px;
+}
+
+.sushi-container h4{
+    font-family: georgia;
+    font-size: 20px;
+    color: #2D3192;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.protoypes-container img{
+    margin-top:  20px;
+}
