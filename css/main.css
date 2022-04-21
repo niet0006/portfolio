@@ -278,6 +278,8 @@ flex-direction: column;
     font-family: georgia;
     font-size: 40px;
     color: #2D3192;
+    font-weight: bold;
+
 }
 
 .photo-container h2{
@@ -301,6 +303,8 @@ flex-direction: column;
     font-family: georgia;
     font-size: 40px;
     color: #2D3192;
+    font-weight: bold;
+
 }
 
 .froggy-container h2{
@@ -334,7 +338,9 @@ flex-direction: column;
 .sushi-container h1{
     font-family: georgia;
     font-size: 40px;
-    color: #2D3192 
+    color: #2D3192 ;
+    font-weight: bold;
+
 }
 .sushi-container h2{
     color: #2D3192;
@@ -378,6 +384,8 @@ main h1{
     color: #2D3192;
     font-family: georgia;
     margin-bottom:20px ;
+    font-weight: bold;
+
 
 }
 
@@ -403,4 +411,54 @@ main h1{
 
 .services-container img{
     margin-top: 10px;
+}
+
+/* ----------------End of Services Page  --------------------- */
+
+.skills-container h1{
+    font-weight: bold;
+
+    
+}
+
+.why-info h3{
+    font-weight: bold;
+    font-size: 40px;
+    color: #2D3192;
+    font-family: georgia;
+    margin-bottom:20px ;
+    
+}
+
+.why-info p{
+    color: #2D3192;
+    font-size: 14px;
+    line-height: 25px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    
+}
+
+.skills h2{
+    color: #2D3192;
+    font-size:30px ;
+    line-height: 40px;
+    margin-bottom: 20px;
+}
+
+.progress{
+    background-color: #D07FB5;
+    margin: 20px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+.progress-made{
+    background-color: #c03993;
+    border-radius: 10px;
+    height: 40px;
+}
+
+.progress-made+.one{
+    width: 50%;
 }
