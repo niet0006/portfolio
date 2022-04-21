@@ -316,6 +316,7 @@ flex-direction: column;
     margin-top: 15px;
     margin-bottom: 25px;
     text-align: center;
+    color: #2D3192;
 }
     
 
@@ -325,6 +326,7 @@ flex-direction: column;
     margin-top: 15px;
     margin-bottom: 25px;
     text-align: center;
+    color: #2D3192;
 }
 
 /* ----------------End of Froggy work  --------------------- */
@@ -367,4 +369,38 @@ flex-direction: column;
 
 .protoypes-container img{
     margin-top:  20px;
+}
+
+/* ----------------End of Sushi Work  --------------------- */
+
+main h1{
+    font-size: 40px;
+    color: #2D3192;
+    font-family: georgia;
+    margin-bottom:20px ;
+
+}
+
+/* ----------------End of Work Page  --------------------- */
+
+.services h1{
+    margin: 0;
+}
+
+.services h2{
+    color:#2D3192;
+
+}
+
+.services p{
+    color: #2D3192;
+    font-size: 14px;
+    line-height: 25px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    text-align: center 
+}
+
+.services-container img{
+    margin-top: 10px;
 }
