@@ -453,12 +453,131 @@ main h1{
     border-radius: 10px;
 }
 
-.progress-made{
+.progress p{
+    margin-left:20px;
+    padding-top:10px ;
+    color: white;
+}
+
+.progress-made-one{
     background-color: #c03993;
     border-radius: 10px;
     height: 40px;
+    width: 75%;
 }
 
-.progress-made+.one{
-    width: 50%;
+.progress-made-two{
+    background-color: #c03993;
+    border-radius: 10px;
+    height: 40px;
+    width: 80%;
 }
+
+.progress-made-three{
+    background-color: #c03993;
+    border-radius: 10px;
+    height: 40px;
+    width: 69%;
+}
+.progress-made-four{
+    background-color: #c03993;
+    border-radius: 10px;
+    height: 40px;
+    width: 79%;
+}
+.progress-made-five{
+    background-color: #c03993;
+    border-radius: 10px;
+    height: 40px;
+    width: 86%;
+}
+.progress-made-six{
+    background-color: #c03993;
+    border-radius: 10px;
+    height: 40px;
+    width: 65%;
+}
+.progress-made-seven{
+    background-color: #c03993;
+    border-radius: 10px;
+    height: 40px;
+    width: 75%;
+}
+
+/* ----------------End of Services Page  and skill bar progress --------------------- */
+
+@media only screen and (min-width:  760px) {
+
+  
+nav {
+    display: flex;
+    align-items:center;
+    width: 100%;
+    gap: 40%;
+}
+
+.menu-logo{
+    flex-basis: 10%;
+    
+    margin-left: 80px;
+  
+}
+
+nav ul{
+    display: flex;    
+    justify-content: flex-end;
+    background-color: #2D3192;
+    }
+
+.header-photo{
+    width: 50%;
+    margin: 0 auto;
+}
+.header-info{
+    width: 60%;
+    
+}
+.header-text h2{
+    text-align: center;
+    margin: 0 auto;
+    font-size: 40px;
+}
+
+/* ----------------Header Styling--------------------- */
+
+.info-container button{
+    margin-left: 70%;
+    font-size: 18px;
+    
+
+}
+
+
+.info-container h3{
+    font-size: 32px;
+}
+
+.info-container p{
+    font-size: 18px;
+}
+
+.banner-container button{
+    font-size: 18px;
+
+}
+
+h2{
+    font-size: 40px;
+}
+
+.footer-container{
+    height: 50px;
+}
+
+.logos-container img:nth-child(1){
+    width: 10%;
+    
+    
+}
+
+/* ----------------End Home styling--------------------- */
