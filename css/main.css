@@ -612,5 +612,62 @@ h2{
 
 @media only screen and (min-width:  1260px){
 
+    .menu-options{
+        margin-left: 15%;
+    }
+
+    .header-photo img{
+        width: 42%;
+    }
+
+    .info-container{
+        flex-basis: fill-available;
+        width: 100%;
+    }
+    .work-ux, .work-photo, .work-illustration{
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .ux-tittle, .illustration-tittle, .photo-tittle{
+        border-radius: 30px 0 0 30px;
+        height:306px;
+        width: 10%;
+    
+    }
+    
+    .ux-tittle h2, .illustration-tittle h2, .photo-tittle h2{
+        transform: rotate(270deg);
+        margin-top: 111%;}
+    
+    .sushi img{
+        width: 100%;
+        
+    }
+
+    .paola img{
+        max-width: 100%;
+    }
+    
+    /* ----------------Work styling, traslate work tittle--------------------- */
+.banner{
+    display: flex;
+    flex-direction: row;
+}
+
+.banner-container{
+    width: 30%;
+    height: auto;
+    text-align: left;
+}
+
+.banner-container h4{
+    font-size: 70px;
+}
+
+.banner-container button{
+    font-size: 20px;
+    margin-left: 20px;
+}
 
 }
