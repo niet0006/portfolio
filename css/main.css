@@ -677,9 +677,48 @@ h2{
     flex-basis: 35%;
     padding-left: 45%;
 }
+
     /* ----------------End Home Styling--------------------- */
 
 .whe-container img{
     max-width: 40%;
 }
+    /* ----------------End Why me Styling--------------------- */
+.sushi-intro p{
+    font-size: 20px;
+    line-height: 35px;
 }
+
+.info-personas{
+    display: flex;
+    flex-direction: row;
+    gap: 20px
+    ;
+}
+
+.info-personas p{
+    flex-basis: 70%;
+    font-size: 20px;
+    line-height: 35px;
+    text-align: left;
+    margin-top: 30%;
+
+}
+
+.protoypes-container{
+    display: flex;
+    gap: 30px;
+    align-items: stretch;
+    justify-content: stretch;
+    flex-direction: row;
+        
+}
+
+.prototype h4{
+    margin-top: 20px;
+    font-size: 25px;
+    
+}
+
+}
+
