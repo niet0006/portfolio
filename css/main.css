@@ -673,4 +673,13 @@ h2{
     height: 15%;
 }
 
+.logos-container{
+    flex-basis: 35%;
+    padding-left: 45%;
+}
+    /* ----------------End Home Styling--------------------- */
+
+.whe-container img{
+    max-width: 40%;
+}
 }
