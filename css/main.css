@@ -581,3 +581,30 @@ h2{
 }
 
 /* ----------------End Home styling--------------------- */
+
+
+.whe-container{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+
+}
+
+.whe-container img{
+    max-width: 55%;
+    align-items: center;
+    
+}
+
+.why-info{
+    flex-basis: 70%;
+    font-size: 20px;
+}
+
+.why-info p{
+    font-size: 20px;
+    line-height: 31px;
+}
+
+/* ----------------End Why me page tablet--------------------- */
+ 
