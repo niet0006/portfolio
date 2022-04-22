@@ -13,6 +13,10 @@ One of the biggest challenges during the project was to be able to achieve the e
 
 In order to overcome all these obstacles it is very important to have patience and tolerance for frustration, you have to try things a thousand times until it works or in certain cases see code examples of how other people solved similar problems.
 
+Learning:
+
+In the elaboration of this project I was able to learn to use flexbox in a more efficient way.Moreover, I corrected some mistakes that I made in other exercises, such as creating a CSS file for each page and not using alt atribute for images.
+
 Resources:
 
 Images taken from: Www.pexels.com
